@@ -1,6 +1,7 @@
 # TSP Dragonwilds Server Manager (COMING SOON!!!)
 
 Control panel and live tracker for **RuneScape: Dragonwilds** dedicated servers.
+Manage your RuneScape: Dragonwilds dedicated server from one panel — live map, Discord ops, backups, and Pro tools for community hosts.
 
 Built for community hosts (including [TSP / The Stealth Pancakes](https://tsp-server.com)) — start/stop, live map & players, public status, Discord slash ops, alerts, backups, multi-server fleet, and more.
 
@@ -26,14 +27,3 @@ Built for community hosts (including [TSP / The Stealth Pancakes](https://tsp-se
 
 ## License
 Proprietary — see `standalone/LICENSE.txt`. Runtime packages may be distributed; source redistribution is not permitted without permission.
-
-Manage your RuneScape: Dragonwilds dedicated server from one panel — live map, Discord ops, backups, and Pro tools for community hosts.
-
-| Field | Suggestion |
-| --- | --- |
-| Visibility | **Private** (source) |
-| Releases | Attach `TSP-ControlCentre-portable-*.zip` / Setup only — never `config.php`, keys, or `pro_license_private.pem` |
-| Default branch | `main` |
-| Issues | On if you want support tickets; off if Discord-only |
-| Wiki / Discussions | Optional; Discord is usually enough |
-| Security policy | “Report privately via Discord / email — no public vuln dumps” |
