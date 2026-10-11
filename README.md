@@ -7,8 +7,6 @@ Built for community hosts (including [TSP / The Stealth Pancakes](https://tsp-se
 
 **Free** covers day-to-day hosting. **Pro** unlocks Discord automation, smart alerts, Backup Pro, branding/embed, staff seats, player CRM, and deep statistics.
 
-> This repository is the **private product source**. Customers get the portable zip / Setup build, not this repo.
-
 ## Features
 - Live player tracker, Ashenfall map, public status page
 - Admin dashboard (start/stop, announce, moderation, achievements)
