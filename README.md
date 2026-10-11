@@ -2,8 +2,6 @@
 
 Control panel and live tracker for **RuneScape: Dragonwilds** dedicated servers.
 
-Manage your RuneScape: Dragonwilds dedicated server from one panel — live map, Discord ops, backups, and Pro tools for community hosts.
-
 Built for community hosts (including [TSP / The Stealth Pancakes](https://tsp-server.com)) — start/stop, live map & players, public status, Discord slash ops, alerts, backups, multi-server fleet, and more.
 
 **Free** covers day-to-day hosting. **Pro** unlocks Discord automation, smart alerts, Backup Pro, branding/embed, staff seats, player CRM, and deep statistics.
