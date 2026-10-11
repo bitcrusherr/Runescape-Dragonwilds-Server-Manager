@@ -1,5 +1,4 @@
-# Runescape-Dragonwilds-Server-Manager
-# TSP Dragonwilds Server Manager
+# TSP Dragonwilds Server Manager (COMING SOON!!!)
 
 Control panel and live tracker for **RuneScape: Dragonwilds** dedicated servers.
 
