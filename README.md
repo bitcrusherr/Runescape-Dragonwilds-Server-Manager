@@ -1,37 +1,51 @@
 # TSP Dragonwilds Server Manager
 
-Control panel and live tracker for **RuneScape: Dragonwilds** dedicated servers.
+Windows Control Centre for a **RuneScape: Dragonwilds** dedicated server.
 
-Built for community hosts (including [TSP / The Stealth Pancakes](https://tsp-server.com)) — start/stop, live map & players, public status, Discord slash ops, alerts, backups, multi-server fleet, and more.
+**Source code is proprietary and is not published here.** This repository is for **Windows Setup.exe downloads only** (GitHub Releases). Do not expect project source, portable zips, or build scripts in this repo.
 
-**Free** covers day-to-day hosting. **Pro** unlocks Discord automation, smart alerts, Backup Pro, branding/embed, staff seats, player CRM, and deep statistics.
+## Download (Free)
 
-## Download
+| Package | Link |
+|---------|------|
+| Windows Setup | See [Releases](https://github.com/bitcrusherr/Runescape-Dragonwilds-Server-Manager/releases) for `TSP-ControlCentre-Setup-*.exe` |
 
-Latest Windows release: **[Releases](https://github.com/bitcrusherr/Runescape-Dragonwilds-Server-Manager/releases/latest)**
+Free includes the live tracker, public map, one server profile, Area 1 quest guides, start/stop, and basic backups. Community + product banners show until Pro is activated.
 
-| File | What it is |
-|------|------------|
-| `TSP-ControlCentre-Setup-*.exe` | Recommended — per-user installer (Start menu + desktop shortcut) |
-| `TSP-ControlCentre-portable-*.zip` | Portable folder (no installer) |
+Needs a 64-bit Windows PC. Fresh PCs: [VC++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) and [WebView2](https://go.microsoft.com/fwlink/p/?LinkID=2124703).
 
-Source code is **not** published in this repository. Runtime packages may be distributed; source redistribution is not permitted without permission. See `LICENSE.txt` inside the download.
+## Getting started
 
-## Features
+1. Download and run the latest **Setup** from Releases (per-user install; no admin prompt).
+2. Open from the Start menu / desktop shortcut. First launch starts the bundled tracker.
+3. Finish first-run setup; sign in as `admin` (password is shown on the setup page once).
+4. Point paths at your dedicated server. Set **Owner ID** (in-game Player ID) under Backups → Install DS before players join.
+5. Start the DS with `Start-Server.bat` on the game host (do not edit its `-port`). Keep the Manager window open so the dashboard fills.
 
-- Live player tracker, Ashenfall map, public status page
-- Admin dashboard (start/stop, announce, moderation, achievements)
-- Discord webhooks + slash commands (`/status`, `/online`, …) — Pro
-- Smart alerts, automation playbooks, scheduled messages — Pro
-- Control Centre + world backups, SteamCMD update helpers
-- Multi-server profiles, branding/embed widget, staff seats, player CRM — Pro
+## TSP Pro — $10 USD, one-time
 
-## Requirements
+Paid unlock (signed **TSP2** key) for:
 
-- Windows 10/11 (x64)
-- WebView2 (usually already on Windows 11 / modern Windows 10)
-- Dragonwilds dedicated server + SteamCMD on the same host for full control
+- Discord webhooks + `/status` `/online` `/leaderboard` `/stats`
+- Automation and scheduled messages
+- More than one server profile
+- World / leaderboards / deep player stats
+- Smart Discord alerts
+- Backup Pro (longer keep + export webhook)
+- Branding kit + embed widget
+- Extra staff seats
+- Player CRM
+- Full quest guides (Temple Woods stays free)
+- Mods tools (UE4SS install gate)
 
-## License
+**Buy / trial:** message [TSP Discord](https://discord.gg/rP5Rjnaz5e) (or tsp-server.com). Pay **$10 USD** (one-time). Include the **Install fingerprint** from Admin → License.
 
-Proprietary — see `LICENSE.txt` in the download package.
+Activate: Admin → License → paste the key. Ads hide automatically.
+
+## License & support
+
+- Terms: `LICENSE.txt` inside the installed app folder
+- Support: [TSP Discord](https://discord.gg/rP5Rjnaz5e) · [tsp-server.com](https://tsp-server.com)
+- Version & upgrade steps: Admin → Support & logs after install
+
+Product source is **not** in this repository.
