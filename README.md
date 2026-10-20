@@ -38,14 +38,14 @@ Paid unlock (signed **TSP2** key) for:
 - Full quest guides (Temple Woods stays free)
 - Mods tools (UE4SS install gate)
 
-**Buy / trial:** message [TSP Discord](https://discord.gg/rP5Rjnaz5e) (or tsp-server.com). Pay **$10 USD** (one-time). Include the **Install fingerprint** from Admin → License.
+**Buy / trial:** [Request a key on Discord](https://discord.gg/Wn7dv3Bvek) or [tsp-server.com](https://tsp-server.com). Pay **$10 USD** (one-time). Include the **Install fingerprint** from Admin → License.
 
 Activate: Admin → License → paste the key. Ads hide automatically.
 
 ## License & support
 
 - Terms: `LICENSE.txt` inside the installed app folder
-- Support: [TSP Discord](https://discord.gg/rP5Rjnaz5e) · [tsp-server.com](https://tsp-server.com)
+- Support / keys: [Discord key request](https://discord.gg/Wn7dv3Bvek) · [tsp-server.com](https://tsp-server.com)
 - Version & upgrade steps: Admin → Support & logs after install
 
 Product source is **not** in this repository.
