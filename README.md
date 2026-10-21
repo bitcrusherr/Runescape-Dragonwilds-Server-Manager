@@ -2,6 +2,8 @@
 
 Windows Control Centre for a **RuneScape: Dragonwilds** dedicated server.
 
+![TSP Dragonwilds Server Manager Pro dashboard](media/dashboard.png)
+
 **Source code is proprietary and is not published here.** This repository is for **Windows Setup.exe downloads only** (GitHub Releases). Do not expect project source, portable zips, or build scripts in this repo.
 
 ## Download (Free)
